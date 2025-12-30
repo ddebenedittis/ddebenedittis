@@ -30,14 +30,14 @@ I am Davide De Benedittis, a Robotics engineer and PhD student at the University
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ddebenedittis&theme=github_dark_dimmed&show_icons=true&rank_icon=percentile"
+    srcset="https://github-readme-stats-fawn-eight-89.vercel.app/api?username=ddebenedittis&theme=github_dark_dimmed&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ddebenedittis&theme=default&show_icons=true&rank_icon=percentile"
+    srcset="https://github-readme-stats-fawn-eight-89.vercel.app/api?username=ddebenedittis&theme=default&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ddebenedittis&show_icons=true&rank_icon=percentile" />
+  <img src="https://github-readme-stats-fawn-eight-89.vercel.app/api?username=ddebenedittis&show_icons=true&rank_icon=percentile" />
 </picture>
 </p>
 
